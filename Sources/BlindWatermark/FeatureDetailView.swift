@@ -5,7 +5,7 @@ import SwiftUI
 struct FeatureDetailView: View {
     @Environment(\.dismiss) private var dismiss
 
-    private let repoURL = "https://github.com/wilbur-yu/BlindWatermark"
+    private let repoURL = "https://github.com/guofei9987/blind_watermark"
 
     var body: some View {
         VStack(spacing: 0) {
